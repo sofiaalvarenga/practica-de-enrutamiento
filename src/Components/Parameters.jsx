@@ -9,7 +9,7 @@ const Parameters = () => {
                 backgroundColor: color2,
                 color:color1
             }}>
-            <h1>{parameter}</h1>
+            <h1>The word is: {parameter}</h1>
         </div>
     );
 }
